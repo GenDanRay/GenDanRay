@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel RVO, from americas ui hub
+- 👋 Hi, I’m Daniel RVO, from americas ai-hub
 - ⚡ Fun fact: We will be replaced by AI! 
 
 <!---
